@@ -1,0 +1,9 @@
+com\example\useraccess\model\User.class
+com\example\useraccess\util\JwtUtil.class
+com\example\useraccess\service\UserService.class
+com\example\useraccess\repository\UserRepository.class
+com\example\useraccess\kafka\UserRegistrationListener.class
+com\example\useraccess\config\SecurityConfig.class
+com\example\useraccess\controller\UserController.class
+com\example\useraccess\config\KafkaProducerConfig.class
+com\example\useraccess\UserAccessServiceApplication.class

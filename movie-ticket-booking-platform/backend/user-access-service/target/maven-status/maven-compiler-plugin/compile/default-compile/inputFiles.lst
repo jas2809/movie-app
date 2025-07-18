@@ -1,0 +1,9 @@
+C:\Users\numai\Downloads\pip-jasmin\movie-ticket-booking-platform\backend\user-access-service\src\main\java\com\example\useraccess\config\SecurityConfig.java
+C:\Users\numai\Downloads\pip-jasmin\movie-ticket-booking-platform\backend\user-access-service\src\main\java\com\example\useraccess\controller\UserController.java
+C:\Users\numai\Downloads\pip-jasmin\movie-ticket-booking-platform\backend\user-access-service\src\main\java\com\example\useraccess\model\User.java
+C:\Users\numai\Downloads\pip-jasmin\movie-ticket-booking-platform\backend\user-access-service\src\main\java\com\example\useraccess\UserAccessServiceApplication.java
+C:\Users\numai\Downloads\pip-jasmin\movie-ticket-booking-platform\backend\user-access-service\src\main\java\com\example\useraccess\config\KafkaProducerConfig.java
+C:\Users\numai\Downloads\pip-jasmin\movie-ticket-booking-platform\backend\user-access-service\src\main\java\com\example\useraccess\repository\UserRepository.java
+C:\Users\numai\Downloads\pip-jasmin\movie-ticket-booking-platform\backend\user-access-service\src\main\java\com\example\useraccess\util\JwtUtil.java
+C:\Users\numai\Downloads\pip-jasmin\movie-ticket-booking-platform\backend\user-access-service\src\main\java\com\example\useraccess\service\UserService.java
+C:\Users\numai\Downloads\pip-jasmin\movie-ticket-booking-platform\backend\user-access-service\src\main\java\com\example\useraccess\kafka\UserRegistrationListener.java

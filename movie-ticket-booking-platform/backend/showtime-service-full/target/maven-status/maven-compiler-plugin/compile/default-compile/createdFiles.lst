@@ -1,0 +1,5 @@
+com\example\showtimeservice\model\Showtime.class
+com\example\showtimeservice\repository\ShowtimeRepository.class
+com\example\showtimeservice\service\ShowtimeService.class
+com\example\showtimeservice\controller\ShowtimeController.class
+com\example\showtimeservice\ShowtimeServiceApplication.class
